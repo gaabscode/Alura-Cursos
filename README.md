@@ -45,6 +45,6 @@ No último passo dessa formação você aprenderá a utilizar bibliotecas em .ne
 
 
 ## Referência
-[Formação na Alura](https://cursos.alura.com.br/formacao-c-sharp-orientacao-objetos)
-[Formação na Alura](https://cursos.alura.com.br/formacao-avancando-c-sharp)
+[Formação na Alura Aprenda a programar em C# com Orientação a Objetos](https://cursos.alura.com.br/formacao-c-sharp-orientacao-objetos)<br>
+[Formação na Alura Avançando em C#](https://cursos.alura.com.br/formacao-avancando-c-sharp)
 
