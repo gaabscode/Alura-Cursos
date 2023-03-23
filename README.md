@@ -17,7 +17,34 @@ Agora que você viu os conceitos essenciais do paradigma da Orientação a Objet
 
 [Projeto prático](https://github.com/gaabstudies/curso_OrientacaoObjetosC02R/tree/master/csharp_exception-Aula5)
 
+
+# C# e Orientação a Objetos: coleções, arquivos e bibliotecas
+
+Aprenda a manipular coleções, arquivos e a lidar com exceções em C#
+
+## Avançando em C#
+Nesta formação Avançando em C# da Alura você terá acesso ao guia de aprendizado para aprofundar os conhecimentos em desenvolvimento de aplicações usando C#.
+
+Você aprenderá como utilizar as coleções do C# para representar estruturas de dados, como manipular arquivos para leitura e escrita(I/O) e por fim como lidar com possíveis erros que podem ocorrer durante a execução de aplicações, utilizando o conceito de exceptions.
+
+## Coleções em C#
+Neste primeiro passo você vai aprender a utilizar as coleções do C# para manipular informações, em diferentes tipos de estrutura de dados.
+
+[Projeto prático](https://github.com/gaabcode/curso_OrientacaoObjetosC02R/tree/master/Array_Collections_C-aula05)
+
+## Manipulação arquivos em C#
+Agora você aprenderá a lidar com I/O(Input/Output) em C#, para ser capaz de fazer leitura e escrita de arquivos de texto em uma aplicação .net.
+
+[Projeto prático](https://github.com/gaabcode/curso_OrientacaoObjetosC02R/tree/master/ByteBankIO-Aula5)
+
+
+## Utilização de bibliotecas no C#
+No último passo dessa formação você aprenderá a utilizar bibliotecas em .net, com a ferramenta NuGet, além de também entender como é o processo de criação de uma biblioteca DLL em C#.
+
+[Projeto prático](https://github.com/gaabcode/curso_OrientacaoObjetosC02R/tree/master/curso_bibliotecas-Aula04)
+
+
 ## Referência
 [Formação na Alura](https://cursos.alura.com.br/formacao-c-sharp-orientacao-objetos)
+[Formação na Alura](https://cursos.alura.com.br/formacao-avancando-c-sharp)
 
- 
