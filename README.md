@@ -18,7 +18,7 @@ Agora que você viu os conceitos essenciais do paradigma da Orientação a Objet
 [Projeto prático](https://github.com/gaabstudies/curso_OrientacaoObjetosC02R/tree/master/csharp_exception-Aula5)
 
 
-# C# e Orientação a Objetos: coleções, arquivos e bibliotecas
+# Formação C# e Orientação a Objetos: coleções, arquivos e bibliotecas
 
 Aprenda a manipular coleções, arquivos e a lidar com exceções em C#
 
@@ -43,8 +43,32 @@ No último passo dessa formação você aprenderá a utilizar bibliotecas em .ne
 
 [Projeto prático](https://github.com/gaabcode/curso_OrientacaoObjetosC02R/tree/master/curso_bibliotecas-Aula04)
 
+# Formação Boas práticas em C#
+
+Aprenda como aplicar boas práticas como SOLID, refatoração e design patterns em C#
+
+O objetivo dessa formação é ensinar para o aluno padrões de projeto e boas práticas de código. Passaremos por temas como SOLID, Design Patterns e Refatoração. O SOLID é uma sigla em inglês para cinco princípios de projeto que possuem o objetivo de fazer programas mais compreensíveis, flexíveis e sustentáveis. Design Patterns são soluções típicas para problemas recorrentes durante o desenvolvimento de um software. Já a refatoração é o processo de modificar um sistema de software para melhorar a estrutura interna do código sem alterar seu comportamento externo.
+
+Você aprenderá como utilizar as coleções do C# para representar estruturas de dados, como manipular arquivos para leitura e escrita(I/O) e por fim como lidar com possíveis erros que podem ocorrer durante a execução de aplicações, utilizando o conceito de exceptions.
+
+## SOLID
+Nosso primeiro passo é conhecer os princípios do SOLID, que são práticas pensando em facilitar a manutenção do nosso código. Veremos conceitos avançados de orientação a objetos, o porquê buscar coesão de classes e métodos, análise as dependências das suas classes para minimizar o seu acoplamento entre outros temas.
+
+[Projeto prático]()
+
+## Design Patterns
+Agora vamos conhecer ainda mais sobre padrões de projetos usando o C#. Passaremos por pontos que envolvem resolver problemas de muito Ifs até resolver heranças complexas.
+
+[Projeto prático]()
+
+
+## Refatoração
+Nessa última etapa da formação iremos aprender a identificar indícios de código ruim, técnicas de refatoração até chegarmos a entender as diferenças entre delegação e hierarquias.
+
+[Projeto prático]()
 
 ## Referência
 [Formação na Alura Aprenda a programar em C# com Orientação a Objetos](https://cursos.alura.com.br/formacao-c-sharp-orientacao-objetos)<br>
-[Formação na Alura Avançando em C#](https://cursos.alura.com.br/formacao-avancando-c-sharp)
+[Formação na Alura Avançando em C#](https://cursos.alura.com.br/formacao-avancando-c-sharp)<br>
+[Formação Boas práticas em C#](https://cursos.alura.com.br/formacao-boas-praticas-c-sharp)
 
