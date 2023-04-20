@@ -43,7 +43,7 @@ No último passo dessa formação você aprenderá a utilizar bibliotecas em .ne
 
 [Projeto prático](https://github.com/gaabcode/curso_OrientacaoObjetosC02R/tree/master/curso_bibliotecas-Aula04)
 
-# Formação Boas práticas em C#
+<!-- # Formação Boas práticas em C#
 
 Aprenda como aplicar boas práticas como SOLID, refatoração e design patterns em C#
 
@@ -65,10 +65,10 @@ Agora vamos conhecer ainda mais sobre padrões de projetos usando o C#. Passarem
 ## Refatoração
 Nessa última etapa da formação iremos aprender a identificar indícios de código ruim, técnicas de refatoração até chegarmos a entender as diferenças entre delegação e hierarquias.
 
-[Projeto prático]()
+[Projeto prático]()-->
 
 ## Referência
 [Formação na Alura Aprenda a programar em C# com Orientação a Objetos](https://cursos.alura.com.br/formacao-c-sharp-orientacao-objetos)<br>
 [Formação na Alura Avançando em C#](https://cursos.alura.com.br/formacao-avancando-c-sharp)<br>
-[Formação Boas práticas em C#](https://cursos.alura.com.br/formacao-boas-praticas-c-sharp)
+<!-- [Formação Boas práticas em C#](https://cursos.alura.com.br/formacao-boas-praticas-c-sharp)-->
 
